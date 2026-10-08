@@ -49,7 +49,7 @@ Content-Type: application/json; charset=utf-8
 
 Interactive API docs available at `http://localhost:3000/docs` once the server is running.
 
-![Swagger UI screenshot](swagger-screenshot.jpeg)
+![Swagger UI screenshot](swagger-screenshot.png)
 
 ## Notes
 
